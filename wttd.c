@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+	printf("/// Calculator ///\n\n");
+
 	int a;
 	int b;
 	int mode;
